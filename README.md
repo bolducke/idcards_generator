@@ -1,5 +1,8 @@
 # ID Card Generator
 
+![image](https://user-images.githubusercontent.com/26026137/233532015-bd9e0607-3aa1-4786-99a0-5040b3a5d350.png)
+
+
 ## Motivation
 
 For FoieGraph 2022, we needed to create IDCards for every member that were attending the event. Unfortunately, I didn't find any script to accomplish this task.
