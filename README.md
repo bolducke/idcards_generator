@@ -5,8 +5,7 @@
 
 ## Motivation
 
-For FoieGraph 2022, we needed to create IDCards for every member that were attending the event. Unfortunately, I didn't find any script to accomplish this task.
-I decided to provide my script so that anyone can inspire themself and do not waste time. In my template `template/page.htm`, I tried-and-failed a margin that would be easier to cut and would be correctly print.
+For FoieGraph 2022, we needed to create IDCards for every member that were attending the event. Unfortunately, I didn't find any script to accomplish this task. I decided to provide my script so that anyone can inspire themself to waste as little time as possible. In the template `template/page.htm`, I fined-tune the margin that would be easier to cut through and to keep the content intact while printing (Most printer have a *dead zone* where the content is not properly draw).
 
 ## How does it works?
 
